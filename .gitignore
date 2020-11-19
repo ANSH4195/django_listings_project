@@ -26,6 +26,8 @@ media
 
 # Extras
 /static
+main.md
+btre_resources
 
 # Distribution / packaging
 .Python
